@@ -30,5 +30,11 @@ A stylish and responsive To-Do List web application built using **HTML**, **CSS*
 
 ---
 
+## 🙋‍♀️ Author
+
+👤 **Adrika Gupta**  
+📎 [GitHub Profile](https://github.com/adrikagupta05)
+
+---
 
 
